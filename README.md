@@ -2,4 +2,4 @@
 
 A repo for cuda learning
 
-## cuda
+## example
